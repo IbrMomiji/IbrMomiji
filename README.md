@@ -27,11 +27,4 @@
     <img src="https://komarev.com/ghpvc/?username=IbrMomiji&label=Profile%20views&color=1DB954&style=flat" alt="ravener" />
 </div>
 
-
-<div align="center">
-    <h3 align="left">Spotify</h3>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=5ze5hSErIzHJKPiFqt7rBf&cover_image=false&theme=default&show_offline=false&background_color=191414&interchange=false&bar_color=53b14f&bar_color_cover=true" />
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=footer"/>
