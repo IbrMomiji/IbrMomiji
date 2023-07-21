@@ -1,16 +1,37 @@
-### Hi there 👋
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=header"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+IbrMomiji" />
+    <div align="center">
+        <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IbrMomiji&show_icons=true&count_private=true&hide_border=true&title_color=99dfff&icon_color=1DB954&text_color=ffffff&bg_color=0d1117" />
+        <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrMomiji&layout=compact&hide_border=true&title_color=99dfff&text_color=ffffff&bg_color=0d1117&langs_count=6" />
+    </div>
+</div>
 
-<!--
-**IbrMomiji/IbrMomiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <h1 align="left">About me</h1>
+    <p>やぁ！私はもみじ！Discordではibara.babanyanru.rihyosilだよ。友達申請は出来なくしてます。</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+    <h1 align="left">Skills And Languages</h1>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,py,linux,discord,visualstudio,vscode" /> 
+    </a>
+</div>
+
+
+<div align="center">
+    <h1 align="left">Other Info</h1>
+    <img src="https://komarev.com/ghpvc/?username=IbrMomiji&label=Profile%20views&color=1DB954&style=flat" alt="ravener" />
+</div>
+
+
+<div align="center">
+    <h3 align="left">Spotify</h3>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=5ze5hSErIzHJKPiFqt7rBf&cover_image=false&theme=default&show_offline=false&background_color=191414&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=footer"/>
