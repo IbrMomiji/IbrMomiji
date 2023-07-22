@@ -21,10 +21,20 @@
     </a>
 </div>
 
-
 <div align="center">
     <h1 align="left">Other Info</h1>
-    <img src="https://komarev.com/ghpvc/?username=IbrMomiji&label=Profile%20views&color=1DB954&style=flat" alt="ravener" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=IbrMomiji&label=Profile%20views&color=1DB954&style=flat" alt="ravener" /> -->
+<p>
+  <a href="https://github.com/IbrMomiji/IbrMomiji">
+    <img src="https://komarev.com/ghpvc/?username=IbrMomiji" alt="IbrMomiji" />
+  </a>
+  <a href="http://twitter.com/IbrMomiji">
+    <img height="20" src="https://img.shields.io/twitter/follow/choozoo10?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/IbrMomiji">
+    <img height="20" src="https://img.shields.io/github/followers/IbrMomiji?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=footer"/>
