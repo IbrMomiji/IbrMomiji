@@ -17,7 +17,7 @@
 <div align="center">
     <h1 align="left">Skills And Languages</h1>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,py,linux,discord,visualstudio,vscode" /> 
+        <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,py,linux,discord,html,css,visualstudio,vscode" /> 
     </a>
 </div>
 
