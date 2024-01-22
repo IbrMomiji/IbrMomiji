@@ -24,7 +24,6 @@
 <div align="center">
     <h1 align="left">Other Info</h1>
     <!-- <img src="https://komarev.com/ghpvc/?username=IbrMomiji&label=Profile%20views&color=1DB954&style=flat" alt="ravener" /> -->
-    [![Discord Presence](https://lanyard.cnrad.dev/api/1109320419498020906?bg=2e3440)](https://discord.com/users/1109320419498020906)
 <p>
   <a href="https://github.com/IbrMomiji/IbrMomiji">
     <img src="https://komarev.com/ghpvc/?username=IbrMomiji" alt="IbrMomiji" />
@@ -37,5 +36,7 @@
   </a>
 </p>
 </div>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1109320419498020906?bg=2e3440)](https://discord.com/users/1109320419498020906)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=footer"/>
