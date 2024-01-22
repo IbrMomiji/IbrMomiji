@@ -37,4 +37,6 @@
 </p>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1109320419498020906?bg=2e3440)](https://discord.com/users/1109320419498020906)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcccc&height=120&section=footer"/>
